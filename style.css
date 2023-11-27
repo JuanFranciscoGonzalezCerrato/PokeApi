@@ -1,0 +1,25 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+html{
+	height: 100vh;
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.card{
+	height: 100%;
+	width: 100%;
+	background-color: aliceblue;
+	color: white;
+	border-radius: 20px;
+	display: flex;
+	flex-direction: column;
+    align-items: center;
+}
+h2,h4{
+	color: black;
+}
